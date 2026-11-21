@@ -1,0 +1,22 @@
+{
+  "wheel_id": 946,
+  "structure": "umbrella",
+  "slug": "homeloanbrokeripswich-113",
+  "project": "mortgage-broker-ipswich-documents-needed-3d4c68cd2c175da375f72c",
+  "parent_t1_ref": "homeloanbrokeripswich-156",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokeripswich.com.au",
+  "primary_kw": "mortgage broker ipswich documents needed",
+  "intended_url": "https://aumedia.neocities.org/mortgage-broker-ipswich-documents-needed-3d4c68cd2c175da375f72c/",
+  "tier": "T2",
+  "writeback_nonce": "ce8e4c6b8d5b0554",
+  "links": [
+    {
+      "target_url": "http://mortgage-broker-ipswich-eligibility-cca47f9e6266b2d578c233778e7.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "http://mortgage-broker-ipswich-eligibility-cca47f9e6266b2d578c233778e7.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
